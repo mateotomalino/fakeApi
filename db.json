@@ -1,4 +1,11 @@
 
     {
-        "zpl":123
-    }
+        "posts": [
+        {
+            "id": 1
+        }
+        ],
+        "profile": {
+          "name": "typicode"
+        }
+      }
